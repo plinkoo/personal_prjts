@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+
+  }
+  
+h1 {
+    color: white;
+    text-align: center;
+}
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+ .box {
+    position: relative;
+    margin-top: 10px;
+    margin-left: 50%;
+    background-color: rgba(123, 75, 131, 0.358);
+    height: 100px;
+    width: 100px;
+    }
+.div{
+    background-color: rgb(50, 50, 38);
+    opacity: green,30%, inherit;
+    }
+.h1{
+    background-color: blueviolet;
+
+    }
